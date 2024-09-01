@@ -5,8 +5,8 @@ In this paper, we tried to implement the self-attention mechanism with gradient-
 
 The following photo illustrates our model's overall architecture: 
 
-![overall architecture](/home/milad/Downloads/XGboostAttention/images/OverallArch.png)
+![overall architecture](./images/OverallArch.png)
 
 We've tested our model on MNIST and FashionMNIST, and the following image shows the attention learned by this architecture. 
 
-![](/home/milad/Downloads/XGboostAttention/images/MNISTFashionMasks.png)
+![](./images/MNISTFashionMasks.png)
